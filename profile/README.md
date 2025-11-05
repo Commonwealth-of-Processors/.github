@@ -1,5 +1,6 @@
-# コモンウェルスへようこそ！
+![](https://raw.githubusercontent.com/Commonwealth-of-Processors/.github/refs/heads/main/header.png)
 
+# コモンウェルスへようこそ！
 
 **空前絶後の半導体時代**、今や学生・ホビイスト・社会人の各々が、各々の目的のために **プロセッサ** の設計・改造を行っています。
 
